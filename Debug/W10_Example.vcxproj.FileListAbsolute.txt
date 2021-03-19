@@ -1,0 +1,4 @@
+D:\Program Files (x86)\Winter 2021\VGP122 - Programming Fundamentals 1\Week 10\W10_Example\Debug\W10_Example.exe
+D:\Program Files (x86)\Winter 2021\VGP122 - Programming Fundamentals 1\Week 10\W10_Example\Debug\W10_Example.pdb
+D:\Program Files (x86)\Winter 2021\VGP122 - Programming Fundamentals 1\Labs\Lab 9\Lab 9\Debug\W10_Example.exe
+D:\Program Files (x86)\Winter 2021\VGP122 - Programming Fundamentals 1\Labs\Lab 9\Lab 9\Debug\W10_Example.pdb
